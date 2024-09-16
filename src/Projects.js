@@ -105,7 +105,7 @@ const Projects = () => {
             onClick={() => toggleSection('small')}
             className="w-full text-left bg-blue-500 text-white py-3 px-4 rounded-lg shadow-lg font-semibold focus:outline-none"
           >
-            Small Projects
+            Small Projects   
           </button>
           <div
             className={`overflow-hidden transition-all duration-500 ease-in-out transform ${
