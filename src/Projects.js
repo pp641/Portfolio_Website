@@ -58,7 +58,7 @@ big: [
   {
     title: "Cricket Fantasy Website",
     description: "A cricket fantasy website that supports real-time updates and 1000 concurrent users.",
-    code: "hhttps://github.com/pp641/cricket247/",
+    code: "https://github.com/pp641/cricket247/",
     link: "http://cricket247online.com/login/",
     details: [
       "Working on performance improvement to support 1000 users concurrently.",
